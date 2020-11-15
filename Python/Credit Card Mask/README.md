@@ -6,7 +6,7 @@ maskify(               "1") ==                "1"
 
 maskify(                "") ==                 ""
 
-# "What was the name of your first pet?"
+"What was the name of your first pet?"
 maskify("Skippy")                                   == "##ippy"
 
 maskify("Nananananananananananananananana Batman!") == "####################################man!"
