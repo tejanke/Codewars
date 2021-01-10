@@ -1,6 +1,5 @@
 import re
 
-
 def decipher_this(string):
     print("Your string is:", string)
     pattern = "[0-9]{1,}"
